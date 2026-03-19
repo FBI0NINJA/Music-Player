@@ -21,6 +21,11 @@ A modern desktop music player built with Python that allows users to search, str
 
 <img width="952" height="617" alt="image" src="https://github.com/user-attachments/assets/202ce809-bb93-4203-9cb1-055746916cd2" />
 
+ره
+
+https://github.com/user-attachments/assets/de256465-0480-4e50-8611-fc7ea8304b2e
+
+
 
 ---
 
