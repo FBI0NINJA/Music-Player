@@ -43,6 +43,5 @@ Clone the repository:
 ```bash
 git clone https://github.com/FBI0NINJA/Music-Player
 cd music-player-pro
-
 ---
 
