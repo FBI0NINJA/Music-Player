@@ -6,7 +6,7 @@ A modern desktop music player built with Python that allows users to search, str
 
 ## 🚀 Features
 
-- 🔍 Search for any song بسهولة
+- 🔍 Search for any song simple
 - ▶️ Instant playback with no lag
 - ⏭️ Auto-play next track
 - 📃 Playlist sidebar
