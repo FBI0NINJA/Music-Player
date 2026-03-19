@@ -44,10 +44,10 @@ Clone the repository:
 git clone https://github.com/FBI0NINJA/Music-Player
 cd music-player-pro
 
+---
 
 
-
-💡 Notes
+## 💡 Notes
 
 Make sure FFmpeg is included inside the project folder
 
